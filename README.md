@@ -16,14 +16,15 @@
 >   -  "java jdk": "^21"
 
 ## 🔄 Rodando a aplicação
-### Navegue ate a pasta `seu/diretório/arquitetura-RMI/rmi_JAR`
+### Navegue até a pasta `seu/diretório/arquitetura-RMI/rmi_JAR`
 
+>   ### Rodando o servidor RMI
 >    ```bash
->   # rodando o servidor RMI
 >   java -cp arquiteturaRMI.jar com.sistemas.model.server.ServidorRMI   
 > ```
->    ```bash
->   # rodando o cliente RMI
+
+>   ### Rodando o cliente RMI
+>   ```bash
 >   java -cp arquiteturaRMI.jar com.sistemas.controller.cliente.ClienteRMI   
 > ```
 
