@@ -3,6 +3,9 @@
 > # Arquitetura RMI
 > Repositório criado para discilina acadêmica sistemas distribuídos e computação paralela utilizando conceito de cliente-servidor em arquitetura RMI com Java.
 
+> ## Escopo
+> O serviço em arquitetura RMI exemplifica uma comunicação entre cliente-servidor através de uma API externa (Viacep), onde o cliente informa o CEP através de um input e retornar dados de endereço completo.
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/wandersonlira/arquitetura-RMI?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/wandersonlira/arquitetura-RMI?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/wandersonlira/salvus-system?style=for-the-badge)
@@ -40,5 +43,5 @@
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/128269826?v=4" width=80><br><sub>Wanderson Lira</sub>](https://github.com/wandersonlira) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/93714667?v=4" width=80><br><sub>Pedro Felix</sub>](https://github.com/pedrovsfelix) |
-| :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/128269826?v=4" width=80><br><sub>Wanderson Lira</sub>](https://github.com/wandersonlira) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/93714667?v=4" width=80><br><sub>Pedro Felix</sub>](https://github.com/pedrovsfelix) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/66601995?v=4" width=80><br><sub>João Nunes</sub>](https://github.com/nunesdotpy) |
+| :---: | :---: | :---: |
